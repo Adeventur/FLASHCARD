@@ -1,0 +1,56 @@
+*{
+        padding: 10px;
+        margin: 10px;
+    }
+    body {
+        background-color: #76ace2;
+    }
+    
+    .card {
+        cursor: pointer;
+        border-radius: 20px ;
+        background-color: wheat;
+    }
+    
+    /* .card-text {
+        display: none;
+    } */
+    /* .text{
+        display: none; 
+    
+    }  */
+    
+    .green-background {
+        background-color: green;
+        margin-top: 10px 10px;
+      }
+      
+      .blue-background {
+        background-color: blue;
+      }
+      
+      .white-background {
+        background-color: #76ace2;
+      }
+      
+      .default-paragraph {
+        cursor: pointer;
+      }
+      
+      .highlight {
+        background-color: whitesmoke; 
+        border: 1px solid #3407ff;
+        padding: 5px;
+        border-radius: 5px;
+        
+      } 
+    
+    p{
+        font-family: 'Times New Roman', Times, serif;
+        margin-top: 20px;
+        font-size: x-large;
+    }
+    
+    h5{
+        font-weight: bolder;
+    }
